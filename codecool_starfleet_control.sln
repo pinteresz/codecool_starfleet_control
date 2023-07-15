@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codecool_starfleet_control", "codecool_starfleet_control.csproj", "{934D7E8C-CFEE-442E-B615-47904BBDC6E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codecool_starfleet_control_test", "..\codecool_starfleet_control_test\codecool_starfleet_control_test.csproj", "{A8406AF5-474B-475E-A692-CBD99DEB34B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{934D7E8C-CFEE-442E-B615-47904BBDC6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{934D7E8C-CFEE-442E-B615-47904BBDC6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{934D7E8C-CFEE-442E-B615-47904BBDC6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8406AF5-474B-475E-A692-CBD99DEB34B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8406AF5-474B-475E-A692-CBD99DEB34B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8406AF5-474B-475E-A692-CBD99DEB34B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8406AF5-474B-475E-A692-CBD99DEB34B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
