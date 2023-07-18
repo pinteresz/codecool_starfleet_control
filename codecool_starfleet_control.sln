@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "codecool_starfleet_control", "codecool_starfleet_control.csproj", "{934D7E8C-CFEE-442E-B615-47904BBDC6E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codecool_starfleet_control_test", "..\codecool_starfleet_control_test\codecool_starfleet_control_test.csproj", "{E7B3E03C-EF83-4FAC-960A-A29AE1E90888}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codecool_starfleet_control_test", "codecool_starfleet_control_test\codecool_starfleet_control_test.csproj", "{8E6296DC-A663-4868-8B30-A7A05E9E8202}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{934D7E8C-CFEE-442E-B615-47904BBDC6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{934D7E8C-CFEE-442E-B615-47904BBDC6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{934D7E8C-CFEE-442E-B615-47904BBDC6E8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E7B3E03C-EF83-4FAC-960A-A29AE1E90888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7B3E03C-EF83-4FAC-960A-A29AE1E90888}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7B3E03C-EF83-4FAC-960A-A29AE1E90888}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7B3E03C-EF83-4FAC-960A-A29AE1E90888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E6296DC-A663-4868-8B30-A7A05E9E8202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6296DC-A663-4868-8B30-A7A05E9E8202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6296DC-A663-4868-8B30-A7A05E9E8202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6296DC-A663-4868-8B30-A7A05E9E8202}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
