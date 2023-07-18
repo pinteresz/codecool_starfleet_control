@@ -8,7 +8,7 @@ namespace codecool_starfleet_control
 {
     public class CargoShip : MobileSpaceCraft
     {
-        private Dictionary<CargoTypes, int> Shipment { get; set; }
+        public Dictionary<CargoTypes, int> Shipment { get; set; }
 
         public CargoShip(string name, int yearOfBuilt) : base(name, yearOfBuilt)
         {
