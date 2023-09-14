@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace codecool_starfleet_control
 {
-    public class StarfleetContol
+    public class StarfleetControl
     {
         public List<SpaceCraft> StarfleetSpaceCraftList { get; private set; }
 
-        public StarfleetContol()
+        public StarfleetControl()
         {
             StarfleetSpaceCraftList = new List<SpaceCraft>();
         }

@@ -12,7 +12,7 @@ namespace codecool_starfleet_control_test
             cargoShip = new CargoShip("TestCargoShip", 2023);
         }
 
-        [Test]
+        [TestAttribute]
         public void CargoShip_Initialization()
         {
 
