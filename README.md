@@ -1,5 +1,6 @@
-# codecool_starfleet_control
+## **:point_right: In this individual C# project, I had to plan and implement a console application that could be used to control a fleet of spacecraft. No starter code was provided.** :point_left: ##
 
+### Instructions from Codecool:
 In this exercise, you will have to plan and implement an application that can be used to control a fleet of Spacecrafts. Pay attention to encapsulation, and have at least one abstract class. Starfleet control is able to generate a list of all Spacecrafts of a given type, currently in space.
 
 Each Spacecraft has a unique registration code and a name that is set when they are built. Spacecrafts also store the year in which they were built, and they can tell other ships their type, which can be Space Station, Cargo Ship and Discovery Ship
